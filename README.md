@@ -37,7 +37,7 @@ Contributions to this repository are welcome! If you have code examples, tutoria
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you're free to use the code and content in this repository for your own projects.
+This project is not licensed, which means you're free to use the code and content in this repository for your own projects.
 
 ---
 
